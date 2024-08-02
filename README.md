@@ -15,7 +15,16 @@
     <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"></a>&nbsp 
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp 
 </div><br>
+
+### 📞 Contact 
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:rudgns328@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp
+        <img src="https://img.shields.io/badge/Tech Blog-ff6347?style=for-the-badge&logo=Tistory&logoColor=white">
+    </a>
 </div>
+</div>
+
 
 
 
