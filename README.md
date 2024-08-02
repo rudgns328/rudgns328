@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20KyungHun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=170)
 
-### Hi, there!👋 I'm currently learning the back-end development🏃🏻
+### Hi, there! 👋 I'm currently learning the back-end development 🏃🏻
 <br>
 
 ### 💻 Tech Stack
