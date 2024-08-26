@@ -16,6 +16,20 @@
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>&nbsp 
 </div><br>
 
+</br>
+
+
+### 💁🏻‍♂️ About me
+
+#### Major In Industrial and Management Engineering
+#### Double Major In Computer Software Department
+#### LIKELION NSU (2023.03.02 ~ 2023.12.07)
+#### Programmers Dev Course: Cloud-Based Backend Engineering 1st (2024.07.15 ~ )
+
+
+</br>
+
+
 ### 📞 Contact 
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:rudgns328@gmail.com">
