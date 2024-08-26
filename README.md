@@ -1,12 +1,12 @@
-<div align="center">
+<div align="left">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20KyungHun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=170)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20KyungHun's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=37&height=170)
 
 ### Hi, there! 👋 I'm currently learning the back-end development 🏃🏻
 <br>
 
-### 💻 Tech Stack
-<div style="display:flex; flex-direction:row;">
+### 💻 Tech Stack 
+<div style="display:flex; flex-direction:row;"> 
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>&nbsp
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>&nbsp
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"></a>&nbsp
@@ -23,14 +23,18 @@
 
 ### 💁🏻‍♂️ About me
 
-#### Major In Industrial and Management Engineering
-#### Double Major In Computer Software Department
-#### LIKELION NSU (2023.03.02 ~ 2023.12.07)
-#### Programmers Dev Course: Cloud-Based Backend Engineering 1st (2024.07.15 ~ )
+- #### Major In Industrial and Management Engineering
+- #### Double Major In Computer Software Department
+- #### LIKELION NSU (2023.03.02 ~ 2023.12.07)
+- #### Programmers Dev Course: Cloud-Based Backend Engineering 1st (2024.07.15 ~ )
 
+<br>
 
-</br>
+### 📈 GitHub Statistics
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudgns328&theme=tokyonight )
+
+<br>
 
 ### 📞 Contact 
 <div style="display:flex; flex-direction:row;">
@@ -41,6 +45,7 @@
         <img src="https://img.shields.io/badge/Tech Blog-ff6347?style=for-the-badge&logo=Tistory&logoColor=white">
     </a>
 </div>
+
 </div>
 
 
