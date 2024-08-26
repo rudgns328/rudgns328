@@ -5,6 +5,17 @@
 ### Hi, there! 👋 I'm currently learning the back-end development 🏃🏻
 <br>
 
+### 📞 Contact 
+<div style="display:flex; flex-direction:row;">
+    <a href="mailto:rudgns328@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp
+    </a>
+    <a href="https://blogimadetosee.tistory.com" target="_blank">
+        <img src="https://img.shields.io/badge/Tech Blog-ff6347?style=for-the-badge&logo=Tistory&logoColor=white">
+    </a>
+</div>
+<br>
+
 ### 💻 Tech Stack 
 <div style="display:flex; flex-direction:row;"> 
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>&nbsp
@@ -33,18 +44,6 @@
 ### 📈 GitHub Statistics
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rudgns328&theme=tokyonight )
-
-<br>
-
-### 📞 Contact 
-<div style="display:flex; flex-direction:row;">
-    <a href="mailto:rudgns328@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>&nbsp
-    </a>
-    <a href="https://blogimadetosee.tistory.com" target="_blank">
-        <img src="https://img.shields.io/badge/Tech Blog-ff6347?style=for-the-badge&logo=Tistory&logoColor=white">
-    </a>
-</div>
 
 </div>
 
