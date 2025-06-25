@@ -36,7 +36,7 @@
 
 - #### Major In Industrial and Management Engineering
 - #### Double Major In Computer Software Department
-- #### LIKELION 11th: Backend Course (2023.03.02 ~ 2023.12.07)
+- #### LIKELION 11th: Backend Course (2023.01.01 ~ 2023.12.31)
 - #### Programmers Dev Course: Cloud-Based Backend Engineering 1st (2024.07.15 ~ 2024.12.13)
 
 <br>
